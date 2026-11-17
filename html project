@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html >
+<head>
+<style>
+
+  body {
+    background-image: url('https://picsum.photos/1920/1080');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed
+  }
+
+  </style>
+</head>
+<body>
+  <h1 style="color: darkblue; font-family:Arial; align-items:center; justify-content:center; display:flex;">MORNING DUNIA</h1>
+  <h2 style="color: rgb(27, 27, 43); font-family:Arial; align-items:center; justify-content:center; display:flex;"><u>Welcome to MY Website.</u></h2>
+  <p style="color: darkolivegreen; font-family:fantasy; justify-content: end; display:glow">Hello i hope you are doing well and you are enjoying your day along with your family. I am excited to have you here because not may of use were able to wake up and see the beautiful sunrise. So when you had a chance to rise up today just take a moment to thank God for the gift of life. </p>
+</body>
+ <h3 style="color: rgb(0, 0, 0); font-family:'arial'; align-items:center; justify-content:center; display:flex;"><U>Today's Quote.</U></h3>
+ <p style="font-family: fantasy;color: darkolivegreen; justify-content: end; display:glow">"The best way to predict the future is to create it." - Abraham Lincoln</p>
+ <body>
+  <p style="color: darkred; font-family:arial; align-items:center; justify-content:center; display:flex;"><b>I WAS YOUR HOST <u>RANCE</u> AND MY YOU HAVE A BLESSED DAY A HEAD OF YOU. 
+    <a href="https://www.youtube.com/results?search_query=Vospa+Smart+Mind+Sharp+Boy" target="_blank" style="color: darkblue; font-family:arial; align-items:center; justify-content:center; display:flex;">Click Here For Some Music </a>
+    <a href="#"><ion-icon  name="logo-youtube"></ion-icon></a>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css" integrity="sha512-QeR2VH+lsBE5LSAe1Q5EnTBbe7XTBubt8dG93Y7gidSgdMCr8nVqKcfKAMyN96SV8KDbZVTDXChatu5G2KQGzg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<body>
+    <a href="https://www.instagram.com" target="_blank">
+    <i class="fa-brands fa-square-instagram"></i>
+  </a>
+  <style type="text/css">
+    .fa-square-instagram {
+      color: #d82e53;
+      font-size: 70px;
+    }
+  </style>
+  </body>
+  <body>
+       <a href="https://www.youtube.com" target="_blank">
+    <i class="fa-brands fa-youtube"></i>
+  </a>
+ <style type="text/css">
+    .fa-brands.fa-youtube {
+      color: #e00c17;
+      font-size: 70px;
+    }
+    </style>
+</body>
+<body>
+  <a href="https://www.whatsapp.com" target="_blank">
+    <i class="fa-brands fa-square-whatsapp"></i>
+  </a>
+  <style type="text/css">
+    .fa-brands.fa-square-whatsapp {
+      color: #25d366;
+      font-size: 70px;
+    }
+    </style>
+</body>
+<body>
+  
+ <a href="https://www.tiktok.com"
+  target="_blank">
+    <i class="fa-brands fa-tiktok"></i>
+  </a>
+  <style type="text/css">
+    .fa-brands.fa-tiktok {
+      color: #000000;
+      font-size: 70px;
+    }
+    </style>
+</body>
+<body>
+  <a href="https://www.facebook.com"
+  target="_blank">
+  <i class="fa-brands fa-facebook"></i>
+  <style type="text/css">
+    .fa-brands.fa-facebook {
+      color: #1877f2;
+      font-size: 70px;
+    }
+    </style>
+</body>
+</html>
